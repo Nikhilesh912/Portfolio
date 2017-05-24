@@ -1,0 +1,142 @@
+html *{
+    font-family: 'Amiko' !important;
+}
+.sidebarLeft{
+    float: left;
+    width: 30%;
+    height: 500px;
+    overflow-y:scroll;
+    margin-left: 1%;
+}
+.sidebarShape{
+    border-radius: .5rem;
+}
+.contentArea{
+    float:right;
+    width: 65%;
+    height:500px;
+    overflow-y:scroll;
+    margin-left: 1%;
+    margin-right: 2%;
+    padding: 2rem 2rem;
+    background-color: #CCCCCC;
+}
+
+.navigationCntrl{
+    color: aliceblue;
+    background-color: #353535;
+    height: 50px;
+    font-size: 24px;
+    font-weight: 600;
+    width: 80%;
+}
+
+.img{
+    height: 40px;
+    width: 40px;
+    float: right;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+
+.socialMedia{
+    height: 50px;
+    float: right;
+    width: 20%;
+    margin-top: -50px;
+    margin-left: 5px;
+    background-color: #353535 ;
+}
+
+.listProj{
+    color: black;
+    background-color: #bfbfbf;
+    border-radius: .0rem;
+    margin-top: 2px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 80px;
+    font-size: 15px;
+}
+.list-group-item:first-child {
+    border-top-right-radius: .5rem;
+    border-top-left-radius: .5rem;
+
+}
+.list-group-item:last-child {
+    border-bottom-right-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+}
+
+.heading{
+    width: 100%;
+    float: left;
+}
+
+.headingLeft{
+    float: left;
+    width: 30%;
+    margin-left: 2%;
+}
+
+.headingRight{
+    float: left;
+    width: 65%;
+    margin-left: 1%;
+    margin-right: 2%;
+    margin-top: 15px;
+}
+
+.projHeadingText{
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 12%;
+    margin-bottom: -1px;
+}
+.contact{
+    float: right;
+    color: black;
+    background-color: #bfbfbf;
+}
+.databases{
+    width: 23%;
+    float: left;
+    font-size: 14px;
+}
+.languages{
+    width: 23%;
+    float: left;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.technologies{
+    width: 23%;
+    float: left;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.frameworks{
+    width: 23%;
+    float: left;
+    font-size: 14px;
+    margin-left: 15px;
+}
+.listProfileHeader{
+    font-size: 16px;
+    font-weight: 500;
+    padding: .4em;
+    background-color: #858687;
+}
+.listProfile{
+    padding: .4em;
+    background-color: #a4a4a5;
+}
+.viewProfile{
+    height: 35px;
+    margin-top: -51px;
+    margin-left: -31px;
+    font-size: 16px;
+    text-align: center;
+    padding: 2px 6px 3px;
+
+}
