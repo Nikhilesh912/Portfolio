@@ -34,7 +34,7 @@ function userPorjects(){
         },
         '3':
         {
-            'projectTitle' : 'Transmiision Control Protocol Congestion Control Simulation',
+            'projectTitle' : 'Transmission Control Protocol Congestion Control Simulation',
             'projectDescription': 'The internet as we know it today is built upon a packet switching network called TCP/IP ' +
             '(Transmission Control Protocol/Internet Protocol). The project simulated how TCP uses the sliding window, slow ' +
             'start, congestion avoidance, fast retransmit and fast recovery to create a reliable communication protocol along ' +

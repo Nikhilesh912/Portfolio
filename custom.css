@@ -124,7 +124,7 @@ html *{
     font-size: 16px;
     font-weight: 500;
     padding: .4em;
-    background-color: #858687;
+    /*background-color: #858687;*/
 }
 .listProfile{
     padding: .4em;
