@@ -19,12 +19,12 @@ html *{
     margin-left: 1%;
     margin-right: 2%;
     padding: 2rem 2rem;
-    background-color: #CCCCCC;
+    background-color: #FFFFFF;
 }
 
 .navigationCntrl{
     color: aliceblue;
-    background-color: #353535;
+    background-color: #2c83c1;
     height: 50px;
     font-size: 24px;
     font-weight: 600;
@@ -45,12 +45,12 @@ html *{
     width: 20%;
     margin-top: -50px;
     margin-left: 5px;
-    background-color: #353535 ;
+    background-color: #2c83c1 ;
 }
 
 .listProj{
     color: black;
-    background-color: #bfbfbf;
+    /*background-color: #bfbfbf;*/
     border-radius: .0rem;
     margin-top: 2px;
     margin-right: 10px;
@@ -96,7 +96,6 @@ html *{
 .contact{
     float: right;
     color: black;
-    background-color: #bfbfbf;
 }
 .databases{
     width: 23%;

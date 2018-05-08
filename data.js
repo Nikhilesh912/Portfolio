@@ -6,7 +6,7 @@ function userPorjects(){
     return {
         1:
          {
-            'projectTitle': 'DISTRIBUTED FILE SYSTEM USING DHT (DISTRIBUTED HASH TABLES)',
+            'projectTitle': 'Distributed File System Using Distributed Hash Tables',
             'projectDescription': 'It is space efficient and fault tolerant to use the commodity hardware to store the files ' +
             'using a distributed system rather than storing them on a centralised server. Here I have used Hash ' +
             'Tables on every node to keep a record of files present on the node.For inserting and lookup of the file ' +
@@ -20,7 +20,7 @@ function userPorjects(){
         },
         2:
         {
-            'projectTitle': 'NETWORK DATA ANALYSIS USING MAPREDUCE (BIG DATA ANALYTICS)',
+            'projectTitle': 'Network Data Aanalysis Using Mapreduce, Big Data Aanalytics',
             'projectDescription' : 'Given a large amount (around 7.1 million entries) of log files consisting of log ' +
             'entries for server access in the form of IP address followed up with URL accessing the server, find the ' +
             'top fifteen IP addresses who have most frequently accessed the server. Because of the sheer size of the ' +
@@ -34,7 +34,7 @@ function userPorjects(){
         },
         '3':
         {
-            'projectTitle' : 'TCP CONGESTION CONTROL SIMULATION',
+            'projectTitle' : 'Transmiision Control Protocol Congestion Control Simulation',
             'projectDescription': 'The internet as we know it today is built upon a packet switching network called TCP/IP ' +
             '(Transmission Control Protocol/Internet Protocol). The project simulated how TCP uses the sliding window, slow ' +
             'start, congestion avoidance, fast retransmit and fast recovery to create a reliable communication protocol along ' +
@@ -44,7 +44,7 @@ function userPorjects(){
         },
         '4':
         {
-            'projectTitle': 'DISTRIBUTED RIP (ROUTING INFORMATION PROTOCOL)',
+            'projectTitle': 'Distributed Routing Information Protocol',
             'projectDescription': 'The project is aimed to create a distributed routing information protocol by using UDP, ' +
             'thread synchronization and routing tables. Every node running in the network (impersonating a router) created its ' +
             'own routing table based on the neighbors directly connected and the routing table of the neighbor exchanged using ' +
@@ -54,7 +54,7 @@ function userPorjects(){
         },
         '5':
         {
-            'projectTitle': 'IMAGE SEGMENTATION USING BIG DATA ANALYTICS',
+            'projectTitle': 'Image Segmentation Using Big Ddata Analytics',
             'projectDescription': 'The aim of the project was "Given any color image reduce it to any five colors of your choice".' +
             ' This can be achieved using both clustering and classification, here I choose Kmeans clustering algorithm ' +
             '(unsupervised learning) to create 5 clusters by providing initial centroids as RGB value for five colors of my' +
@@ -64,7 +64,7 @@ function userPorjects(){
         },
         '6':
         {
-            'projectTitle': 'Node advisor - search portal for node.js developers using Google page ranking algorithm',
+            'projectTitle': 'Node Advisor, Search Portal For Node.js Developers Using Google Page Ranking Algorithm',
             'projectDescription': 'It\'s a quick access to expeditiously growing node.js community. The project serves a ' +
             'platform for node.js developer to search and review the node modules. Providing other decisive elements for ' +
             'developer like graphical presentation of release trends, download trends, popularity, author activities. I ' +
@@ -75,7 +75,7 @@ function userPorjects(){
         },
         '7':
         {
-            'projectTitle': 'Patients scribe',
+            'projectTitle': 'Patients Scribe',
             'projectDescription': 'The project was an iPad based application to maintain Electronic Health Records (EHR). ' +
             'The initial release targeted the patients suffering from Rheumatoid Arthritis. The application was developed ' +
             'using Java and SQLite DB providing an interactive interface for patients and doctors to facilitate the prognosis. ' +
@@ -85,7 +85,7 @@ function userPorjects(){
         },
         '8':
         {
-            'projectTitle': 'CDFF - Cross platform mobile application for android and iOS.',
+            'projectTitle': 'Cross Platform Mobile Dating Application for Android And iOS',
             'projectDescription': 'The project is Phonegap(Cordova) based hybrid application for android and iOS platforms which' +
             ' also used backbone.js, AdMob, MySQL and PHP. One of the most crucial aspect of the project was the huge user ' +
             'community. My work included designing and developing logger system used for the mobile application leveraging ' +

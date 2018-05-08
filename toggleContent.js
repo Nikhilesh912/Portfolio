@@ -21,6 +21,8 @@ window.onload = function(){
     });
 
     $('#viewNProfile').click(function(){
+        $('#viewNProfile').removeClass('animated pulse');
+        $('#viewNProfile').addClass('animated pulse');
         $('#title').html('');
         $('#description').html('');
         $('#profile').load('profile.html');
